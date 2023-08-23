@@ -1,0 +1,5 @@
+# Instant Runoff Vote Decider
+The IRV Voting project is a Python program designed to quickly determine the results of votes of any size using Instant Runoff method (aka Ranked Choice Voting). The initial script, contained in the file _insert main.py filename here_, was designed to quickly process data from a .csv file and return the results, clarifying the process. Using simple collection methods like a standard Google Form, the results can be quickly returned, exported, and analyzed.
+
+# Why?
+This project was created to simplify the voting process within a student organization at my university. This year, members were told the election would be decided with ranked choice voting, and voted accordingly. When votes were tallied, a discrepancy was raised in the count for the highest position, and the club board overruled the ranked choice style to assign point values to an already flawed collection of votes. While the original method selected one member, the new re-elected the incumbent. This code was written to standardize the process and ensure that this won't happen again.
